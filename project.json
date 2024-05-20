@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.9",
+  "name": "game_base",
+  "id": "d7a0dff3-33ae-4c50-b782-acf981c42a03",
+  "isNew": false,
+  "description": "黄金大转轮"
+}
