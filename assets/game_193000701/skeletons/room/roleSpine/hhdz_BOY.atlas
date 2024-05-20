@@ -1,0 +1,62 @@
+
+hhdz_BOY.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy_arm_L
+  rotate: true
+  xy: 292, 23
+  size: 106, 150
+  orig: 106, 150
+  offset: 0, 0
+  index: -1
+boy_body
+  rotate: true
+  xy: 2, 131
+  size: 378, 511
+  orig: 378, 511
+  offset: 0, 0
+  index: -1
+boy_hand
+  rotate: false
+  xy: 515, 136
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+boy_hand_L
+  rotate: false
+  xy: 781, 380
+  size: 216, 129
+  orig: 216, 129
+  offset: 0, 0
+  index: -1
+boy_head
+  rotate: false
+  xy: 515, 197
+  size: 264, 312
+  orig: 264, 312
+  offset: 0, 0
+  index: -1
+boy_jian
+  rotate: true
+  xy: 2, 2
+  size: 127, 288
+  orig: 127, 288
+  offset: 0, 0
+  index: -1
+boy_l_close_eye
+  rotate: false
+  xy: 444, 86
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+boy_r_close_eye
+  rotate: false
+  xy: 781, 335
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1

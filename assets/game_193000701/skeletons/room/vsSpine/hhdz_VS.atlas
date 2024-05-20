@@ -1,0 +1,321 @@
+
+hhdz_VS.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_diban
+  rotate: false
+  xy: 2, 404
+  size: 925, 398
+  orig: 925, 398
+  offset: 0, 0
+  index: -1
+boy_arm_L
+  rotate: true
+  xy: 2989, 1491
+  size: 106, 150
+  orig: 106, 150
+  offset: 0, 0
+  index: -1
+boy_body
+  rotate: false
+  xy: 961, 720
+  size: 378, 511
+  orig: 378, 511
+  offset: 0, 0
+  index: -1
+boy_hand
+  rotate: true
+  xy: 3141, 1491
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+boy_hand_L
+  rotate: true
+  xy: 3765, 1491
+  size: 216, 129
+  orig: 216, 129
+  offset: 0, 0
+  index: -1
+boy_head
+  rotate: false
+  xy: 670, 90
+  size: 264, 312
+  orig: 264, 312
+  offset: 0, 0
+  index: -1
+boy_jian
+  rotate: true
+  xy: 3217, 1580
+  size: 127, 288
+  orig: 127, 288
+  offset: 0, 0
+  index: -1
+boy_l_close_eye
+  rotate: false
+  xy: 1837, 1736
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+boy_r_close_eye
+  rotate: false
+  xy: 1776, 1736
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: true
+  xy: 2, 9
+  size: 393, 666
+  orig: 393, 666
+  offset: 0, 0
+  index: -1
+girl_hand
+  rotate: true
+  xy: 3202, 1474
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+girl_head
+  rotate: true
+  xy: 929, 413
+  size: 305, 335
+  orig: 305, 335
+  offset: 0, 0
+  index: -1
+girl_l_close_eye
+  rotate: false
+  xy: 3317, 1514
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+girl_r_close_eye
+  rotate: false
+  xy: 3411, 1515
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+girl_shanzi
+  rotate: false
+  xy: 936, 23
+  size: 174, 121
+  orig: 174, 121
+  offset: 0, 0
+  index: -1
+honghei_VS_light_01
+  rotate: false
+  xy: 3896, 1516
+  size: 111, 191
+  orig: 320, 256
+  offset: 19, 9
+  index: -1
+honghei_VS_light_02
+  rotate: true
+  xy: 1229, 1253
+  size: 170, 256
+  orig: 320, 256
+  offset: 19, 0
+  index: -1
+honghei_VS_light_03
+  rotate: true
+  xy: 3507, 1492
+  size: 215, 256
+  orig: 320, 256
+  offset: 19, 0
+  index: -1
+honghei_VS_light_04
+  rotate: true
+  xy: 2731, 1544
+  size: 235, 256
+  orig: 320, 256
+  offset: 19, 0
+  index: -1
+honghei_VS_light_05
+  rotate: false
+  xy: 1341, 693
+  size: 268, 256
+  orig: 320, 256
+  offset: 19, 0
+  index: -1
+honghei_VS_light_06
+  rotate: false
+  xy: 2470, 1527
+  size: 259, 252
+  orig: 320, 256
+  offset: 47, 3
+  index: -1
+honghei_VS_light_07
+  rotate: true
+  xy: 2989, 1599
+  size: 180, 226
+  orig: 320, 256
+  offset: 126, 24
+  index: -1
+honghei_VS_light_08
+  rotate: false
+  xy: 1112, 2
+  size: 145, 142
+  orig: 320, 256
+  offset: 161, 107
+  index: -1
+honghei_VS_light_09
+  rotate: false
+  xy: 1945, 1442
+  size: 39, 38
+  orig: 320, 256
+  offset: 267, 123
+  index: -1
+honghei_vs_01
+  rotate: true
+  xy: 3979, 1740
+  size: 122, 115
+  orig: 300, 300
+  offset: 88, 92
+  index: -1
+honghei_vs_02
+  rotate: false
+  xy: 1487, 1253
+  size: 217, 170
+  orig: 300, 300
+  offset: 82, 74
+  index: -1
+honghei_vs_03
+  rotate: false
+  xy: 1611, 686
+  size: 256, 263
+  orig: 300, 300
+  offset: 36, 20
+  index: -1
+honghei_vs_04
+  rotate: false
+  xy: 1945, 1482
+  size: 263, 297
+  orig: 300, 300
+  offset: 21, 3
+  index: -1
+honghei_vs_05
+  rotate: false
+  xy: 1341, 951
+  size: 260, 300
+  orig: 300, 300
+  offset: 17, 0
+  index: -1
+honghei_vs_06
+  rotate: false
+  xy: 1603, 951
+  size: 263, 300
+  orig: 300, 300
+  offset: 16, 0
+  index: -1
+honghei_vs_07
+  rotate: true
+  xy: 1266, 426
+  size: 265, 300
+  orig: 300, 300
+  offset: 16, 0
+  index: -1
+honghei_vs_08
+  rotate: true
+  xy: 1568, 420
+  size: 264, 300
+  orig: 300, 300
+  offset: 17, 0
+  index: -1
+honghei_vs_09
+  rotate: false
+  xy: 1689, 1434
+  size: 254, 300
+  orig: 300, 300
+  offset: 20, 0
+  index: -1
+honghei_vs_10
+  rotate: false
+  xy: 1706, 1278
+  size: 227, 74
+  orig: 300, 300
+  offset: 42, 112
+  index: -1
+honghei_vs_11
+  rotate: false
+  xy: 1706, 1354
+  size: 228, 78
+  orig: 300, 300
+  offset: 42, 110
+  index: -1
+honghei_vs_12
+  rotate: false
+  xy: 670, 7
+  size: 229, 81
+  orig: 300, 300
+  offset: 42, 108
+  index: -1
+red_diban_a
+  rotate: false
+  xy: 2, 804
+  size: 957, 427
+  orig: 957, 427
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 936, 146
+  size: 303, 265
+  orig: 303, 265
+  offset: 0, 0
+  index: -1
+shandian_a
+  rotate: false
+  xy: 2, 1736
+  size: 1772, 299
+  orig: 1772, 299
+  offset: 0, 0
+  index: -1
+shandian_b
+  rotate: false
+  xy: 2, 1425
+  size: 1685, 309
+  orig: 1685, 309
+  offset: 0, 0
+  index: -1
+shandian_c
+  rotate: false
+  xy: 1776, 1781
+  size: 1439, 254
+  orig: 1439, 254
+  offset: 0, 0
+  index: -1
+shandian_d
+  rotate: false
+  xy: 2, 1233
+  size: 1225, 190
+  orig: 1225, 190
+  offset: 0, 0
+  index: -1
+shandian_f
+  rotate: false
+  xy: 3217, 1864
+  size: 862, 171
+  orig: 862, 171
+  offset: 0, 0
+  index: -1
+shandian_g
+  rotate: false
+  xy: 3217, 1709
+  size: 760, 153
+  orig: 760, 153
+  offset: 0, 0
+  index: -1
+v
+  rotate: false
+  xy: 2210, 1507
+  size: 258, 272
+  orig: 258, 272
+  offset: 0, 0
+  index: -1

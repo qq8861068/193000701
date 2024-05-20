@@ -1,0 +1,38 @@
+{
+    "canvas": {
+        "width": 1280,
+        "height": 720
+    },
+    "orientation": 1,
+    "defultLanguage": "zh",
+    "languages": [
+        "zh",
+        "en",
+        "id",
+        "th",
+        "ja",
+        "pt",
+        "vi",
+        "ko"
+    ],
+    "wxAdConfig":{
+        "isAd": false,
+        "bannerId": "",
+        "rewardedVideoId": "",
+        "interstitialId": "",
+        "customMatrixId": "",
+        "customRowGridId": "",
+        "customGridId": ""
+    },
+    "wxConfig":{
+        "nativeLoading": true,
+        "nativeModal": true,
+        "nativeToast": true,
+        "shareTitle": "我发现了一个有趣的游戏,你也来试试吧！",
+        "shareImg": "share.jpg"
+    },
+    "isMobileBlurry":true,
+    "isCanvasMask":true,
+    "webIsScreen":true
+    
+}

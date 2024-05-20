@@ -1,0 +1,76 @@
+
+hhdz_ksxz.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KSXZ_di
+  rotate: false
+  xy: 2, 326
+  size: 1034, 184
+  orig: 1034, 184
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: true
+  xy: 2, 2
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 586, 108
+  size: 212, 216
+  orig: 212, 216
+  offset: 0, 0
+  index: -1
+ksxz_ks_en
+  rotate: false
+  xy: 2, 138
+  size: 350, 186
+  orig: 350, 186
+  offset: 0, 0
+  index: -1
+ksxz_xz_en
+  rotate: false
+  xy: 1038, 326
+  size: 317, 184
+  orig: 317, 184
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 1357, 349
+  size: 161, 187
+  orig: 161, 187
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 800, 141
+  size: 157, 183
+  orig: 157, 183
+  offset: 0, 0
+  index: -1
+xin1
+  rotate: false
+  xy: 2, 59
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 1546, 446
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 354, 103
+  size: 221, 230
+  orig: 221, 230
+  offset: 0, 0
+  index: -1

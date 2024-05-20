@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fc3b51d7-db17-43c5-8e29-1529d119098f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1886,
+  "height": 467,
+  "platformSettings": {},
+  "subMetas": {
+    "fishingGirl": {
+      "ver": "1.0.6",
+      "uuid": "30a7f7b6-6253-4cd5-8dba-df1ec7d4c63f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fc3b51d7-db17-43c5-8e29-1529d119098f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1882,
+      "height": 463,
+      "rawWidth": 1886,
+      "rawHeight": 467,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

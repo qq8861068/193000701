@@ -1,0 +1,20 @@
+
+guangquan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanquan2
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+huangK_00000
+  rotate: false
+  xy: 2, 154
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

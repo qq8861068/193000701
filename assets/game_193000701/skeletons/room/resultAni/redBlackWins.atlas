@@ -1,0 +1,111 @@
+
+redBlackWins.png
+size: 1169,1169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 174, 293
+  size: 375, 85
+  orig: 375, 95
+  offset: 0, 8
+  index: -1
+textBg_blackWins
+  rotate: false
+  xy: 390, 19
+  size: 360, 107
+  orig: 392, 107
+  offset: 16, 0
+  index: -1
+textBg_redWins
+  rotate: false
+  xy: 2, 19
+  size: 386, 107
+  orig: 392, 107
+  offset: 3, 0
+  index: -1
+text_blackWins_en
+  rotate: true
+  xy: 332, 439
+  size: 514, 164
+  orig: 514, 164
+  offset: 0, 0
+  index: -1
+text_blackWins_ja
+  rotate: false
+  xy: 551, 289
+  size: 489, 163
+  orig: 489, 163
+  offset: 0, 0
+  index: -1
+text_blackWins_ko
+  rotate: true
+  xy: 1001, 532
+  size: 420, 155
+  orig: 420, 155
+  offset: 0, 0
+  index: -1
+text_blackWins_th
+  rotate: true
+  xy: 830, 528
+  size: 424, 169
+  orig: 424, 169
+  offset: 0, 0
+  index: -1
+text_blackWins_vn
+  rotate: false
+  xy: 2, 955
+  size: 620, 212
+  orig: 620, 212
+  offset: 0, 0
+  index: -1
+text_blackWins_zh
+  rotate: true
+  xy: 174, 380
+  size: 573, 156
+  orig: 600, 159
+  offset: 13, 1
+  index: -1
+text_redWins_en
+  rotate: true
+  xy: 664, 467
+  size: 485, 164
+  orig: 485, 164
+  offset: 0, 0
+  index: -1
+text_redWins_ja
+  rotate: true
+  xy: 498, 454
+  size: 498, 164
+  orig: 498, 164
+  offset: 0, 0
+  index: -1
+text_redWins_ko
+  rotate: false
+  xy: 586, 131
+  size: 421, 156
+  orig: 421, 156
+  offset: 0, 0
+  index: -1
+text_redWins_th
+  rotate: true
+  xy: 2, 288
+  size: 665, 170
+  orig: 665, 170
+  offset: 0, 0
+  index: -1
+text_redWins_vn
+  rotate: false
+  xy: 624, 954
+  size: 543, 213
+  orig: 543, 213
+  offset: 0, 0
+  index: -1
+text_redWins_zh
+  rotate: false
+  xy: 2, 128
+  size: 582, 158
+  orig: 600, 159
+  offset: 9, 1
+  index: -1

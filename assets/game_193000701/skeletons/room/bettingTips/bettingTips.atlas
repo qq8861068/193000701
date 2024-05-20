@@ -1,0 +1,111 @@
+
+bettingTips.png
+size: 2018,1230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 1476, 295
+  size: 499, 113
+  orig: 500, 126
+  offset: 0, 10
+  index: -1
+textBg_startBetting
+  rotate: true
+  xy: 1875, 711
+  size: 517, 141
+  orig: 523, 142
+  offset: 3, 0
+  index: -1
+textBg_stopBetting
+  rotate: false
+  xy: 254, 3
+  size: 481, 141
+  orig: 523, 142
+  offset: 22, 0
+  index: -1
+text_startBetting_en
+  rotate: false
+  xy: 750, 518
+  size: 724, 276
+  orig: 724, 276
+  offset: 0, 0
+  index: -1
+text_startBetting_ja
+  rotate: false
+  xy: 750, 18
+  size: 769, 224
+  orig: 769, 224
+  offset: 0, 0
+  index: -1
+text_startBetting_ko
+  rotate: true
+  xy: 1591, 2
+  size: 564, 209
+  orig: 564, 209
+  offset: 0, 0
+  index: -1
+text_startBetting_th
+  rotate: true
+  xy: 1606, 568
+  size: 660, 267
+  orig: 660, 267
+  offset: 0, 0
+  index: -1
+text_startBetting_vn
+  rotate: true
+  xy: 467, 217
+  size: 725, 281
+  orig: 725, 281
+  offset: 0, 0
+  index: -1
+text_startBetting_zh
+  rotate: true
+  xy: 254, 146
+  size: 796, 211
+  orig: 800, 212
+  offset: 2, 1
+  index: -1
+text_stopBetting_en
+  rotate: false
+  xy: 750, 244
+  size: 680, 272
+  orig: 680, 272
+  offset: 0, 0
+  index: -1
+text_stopBetting_ja
+  rotate: false
+  xy: 809, 796
+  size: 774, 218
+  orig: 774, 218
+  offset: 0, 0
+  index: -1
+text_stopBetting_ko
+  rotate: true
+  xy: 1802, 6
+  size: 560, 208
+  orig: 560, 208
+  offset: 0, 0
+  index: -1
+text_stopBetting_th
+  rotate: false
+  xy: 2, 944
+  size: 805, 284
+  orig: 805, 284
+  offset: 0, 0
+  index: -1
+text_stopBetting_vn
+  rotate: true
+  xy: 2, 128
+  size: 814, 250
+  orig: 814, 250
+  offset: 0, 0
+  index: -1
+text_stopBetting_zh
+  rotate: false
+  xy: 809, 1016
+  size: 795, 212
+  orig: 800, 212
+  offset: 3, 0
+  index: -1

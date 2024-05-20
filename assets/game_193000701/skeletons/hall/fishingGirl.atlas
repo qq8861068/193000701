@@ -1,0 +1,195 @@
+
+fishingGirl.png
+size: 1886,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1056, 216
+  size: 249, 751
+  orig: 251, 753
+  offset: 1, 1
+  index: -1
+chest
+  rotate: true
+  xy: 752, 9
+  size: 190, 162
+  orig: 192, 164
+  offset: 1, 1
+  index: -1
+chestLink
+  rotate: true
+  xy: 1809, 431
+  size: 34, 75
+  orig: 36, 77
+  offset: 1, 1
+  index: -1
+diamond1
+  rotate: false
+  xy: 257, 127
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+diamond2
+  rotate: true
+  xy: 695, 179
+  size: 20, 32
+  orig: 22, 34
+  offset: 1, 1
+  index: -1
+eyeMask-L
+  rotate: false
+  xy: 181, 124
+  size: 44, 30
+  orig: 46, 32
+  offset: 1, 1
+  index: -1
+eyeMask-R
+  rotate: false
+  xy: 227, 126
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+flowerBack
+  rotate: true
+  xy: 1695, 12
+  size: 94, 111
+  orig: 96, 113
+  offset: 1, 1
+  index: -1
+flowerFront
+  rotate: true
+  xy: 1005, 21
+  size: 189, 143
+  orig: 191, 145
+  offset: 1, 1
+  index: -1
+glass
+  rotate: true
+  xy: 683, 3
+  size: 169, 67
+  orig: 171, 69
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 1809, 198
+  size: 46, 108
+  orig: 48, 110
+  offset: 1, 1
+  index: -1
+hair1
+  rotate: true
+  xy: 395, 6
+  size: 148, 286
+  orig: 150, 288
+  offset: 1, 1
+  index: -1
+hair2
+  rotate: true
+  xy: 1547, 108
+  size: 106, 215
+  orig: 108, 217
+  offset: 1, 1
+  index: -1
+hairBase
+  rotate: false
+  xy: 1385, 29
+  size: 160, 185
+  orig: 162, 187
+  offset: 1, 1
+  index: -1
+hairFront-L
+  rotate: false
+  xy: 916, 9
+  size: 87, 201
+  orig: 89, 203
+  offset: 1, 1
+  index: -1
+hairFront-R
+  rotate: true
+  xy: 2, 6
+  size: 116, 136
+  orig: 118, 138
+  offset: 1, 1
+  index: -1
+hairFront-R-Back
+  rotate: false
+  xy: 1764, 134
+  size: 38, 80
+  orig: 40, 82
+  offset: 1, 1
+  index: -1
+hand
+  rotate: true
+  xy: 852, 212
+  size: 253, 202
+  orig: 255, 204
+  offset: 1, 1
+  index: -1
+hand-L1
+  rotate: false
+  xy: 695, 201
+  size: 155, 264
+  orig: 157, 266
+  offset: 1, 1
+  index: -1
+hand-L2
+  rotate: true
+  xy: 1809, 308
+  size: 121, 74
+  orig: 123, 76
+  offset: 1, 1
+  index: -1
+hatBack
+  rotate: true
+  xy: 181, 156
+  size: 309, 258
+  orig: 311, 260
+  offset: 1, 1
+  index: -1
+hatFront
+  rotate: true
+  xy: 441, 174
+  size: 291, 252
+  orig: 293, 254
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 296, 3
+  size: 97, 151
+  orig: 99, 153
+  offset: 1, 1
+  index: -1
+legBack
+  rotate: true
+  xy: 1150, 2
+  size: 212, 233
+  orig: 214, 235
+  offset: 1, 1
+  index: -1
+yellow
+  rotate: false
+  xy: 2, 124
+  size: 177, 341
+  orig: 179, 343
+  offset: 1, 1
+  index: -1
+yellowBack1
+  rotate: false
+  xy: 1547, 6
+  size: 146, 100
+  orig: 148, 102
+  offset: 1, 1
+  index: -1
+yellowBack2
+  rotate: false
+  xy: 140, 11
+  size: 154, 111
+  orig: 156, 113
+  offset: 1, 1
+  index: -1

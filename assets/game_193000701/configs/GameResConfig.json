@@ -1,0 +1,7 @@
+{
+    "resConfig": [
+        "prefabs/main",
+        "prefabs/room/room",
+        "prefabs/help/help"
+    ]
+}
